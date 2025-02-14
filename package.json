@@ -1,0 +1,20 @@
+{
+  "name": "auto-embed",
+  "version": "1.0.0",
+  "description": "A simple web project to auto embed links with fixup or fx.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "auto-embed",
+    "link-transform",
+    "javascript"
+  ],
+  "author": "Meji",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
