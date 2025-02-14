@@ -1,5 +1,7 @@
 # Auto Embed Project
 
+## Hosted at https://auto-embed.vercel.app/
+
 ## Overview
 The "Auto Embed" project is a simple web application that allows users to input links and transforms them by appending "fixup" or "fx" as specified. The application features a clean and user-friendly interface.
 
