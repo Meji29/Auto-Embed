@@ -23,6 +23,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 transformedLink = link.replace('x.com', 'fixupx.com');
             } else if (link.includes('bsky.app')) {
                 transformedLink = link.replace('bsky.app', 'fxbsky.app');
+            } else if (link.includes('instagram.com')) {
+                transformedLink = link.replace('instagram.com', 'ddinstagram.com');
             }
             transformedLinks.push(transformedLink);
             if ((index + 1) % 5 === 0 && index !== links.length - 1) {
